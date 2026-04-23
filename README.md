@@ -1,2 +1,3 @@
 # Python-practice
-Python practice
+print("Hello world!")
+
