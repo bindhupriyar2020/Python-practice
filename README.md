@@ -1,3 +1,3 @@
 # Python-practice
-print("Hello world!")
+My first python code 
 
